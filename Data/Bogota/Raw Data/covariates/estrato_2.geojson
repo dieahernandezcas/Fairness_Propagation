@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "estrato_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::4686" } },
+"features": [
+
+]
+}
